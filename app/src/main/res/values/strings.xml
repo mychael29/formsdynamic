@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dynamicform</string>
+    <string name="loading">Cargando. Espere porfavor.</string>
+    <string name="accept">Aceptar</string>
+</resources>
